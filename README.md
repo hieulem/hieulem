@@ -1,5 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on low-level vision, representation learning, and object detection.
+- 🌱 I’m currently learning neural rendering and image super resolution.
+- 💬 Ask me about: computer vision, machine learning, image formation models. 
 - 📫 lmhieu612 (at) gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmhieu612)](https://github.com/anuraghazra/github-readme-stats)
